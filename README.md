@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHiVD
+- 👋 Hi, I’m @RUDRA-1307
 - 👀 I’m interested in Programming & Hacking
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on ...
